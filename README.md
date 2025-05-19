@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/juanftp100" target="blank"><img src="https://img.shields.io/twitter/follow/juanftp100?logo=twitter&style=for-the-badge" alt="juanftp100" /></a> </p>
 
-- 🔭 I’m currently working on [HIS Paraguay - Health System](https://www.facebook.com/proyectohispy)
+- 🔭 I was working on [HIS Paraguay - Health System](https://www.facebook.com/proyectohispy)
 
 - 🌱 I’m currently learning **Spring,Nextjs, ML, science, Golang,Android, AI**
 

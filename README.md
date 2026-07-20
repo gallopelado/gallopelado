@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gallopelado&label=Profile%20views&color=0e75b6&style=flat" alt="gallopelado" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gallopelado" alt="gallopelado" /></a> </p>
+<p align="left"> <a href="https://trophy.ryglcloud.net/?username=gallopelado"><img src="https://trophy.ryglcloud.net/?username=gallopelado" alt="gallopelado" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/juanftp100" target="blank"><img src="https://img.shields.io/twitter/follow/juanftp100?logo=twitter&style=for-the-badge" alt="juanftp100" /></a> </p>
 

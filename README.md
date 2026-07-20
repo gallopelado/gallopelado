@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan José González Ramírez</h1>
-<h3 align="center">A passionate frontend/backend/mobile developer and now I'm starting to teach my knowledge to my university from Paraguay.</h3>
+<h3 align="center">A passionate frontend/backend/mobile developer and I love teaching and learning knowledge.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gallopelado&label=Profile%20views&color=0e75b6&style=flat" alt="gallopelado" /> </p>
 
@@ -7,9 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/juanftp100" target="blank"><img src="https://img.shields.io/twitter/follow/juanftp100?logo=twitter&style=for-the-badge" alt="juanftp100" /></a> </p>
 
-- 🔭 I was working on [HIS Paraguay - Health System](https://www.facebook.com/proyectohispy)
+- 🔭 Right now on [Excelsis](https://excelsis.com.py)
 
-- 🌱 I’m currently learning **Spring,Nextjs, ML, science, Golang,Android, AI**
+- 🔭 I've worked on [HIS Paraguay - Health System](https://www.facebook.com/proyectohispy)
+
+- 🌱 I’m currently learning **Spring,Nextjs, ML, science, Golang,Android, AI, Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gallopelado](https://github.com/gallopelado)
 
